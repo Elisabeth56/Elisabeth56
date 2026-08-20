@@ -7,13 +7,13 @@
 **Building AI systems, agents, and software that turn intelligence into action.**
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/elisabeth-nnamani-68b704391)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_X_URL">
+  <a href="[YOUR_X_URL](https://x.com/elisynthdev)">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="[YOUR_PORTFOLIO_URL](https://elisabethn-portfolio.vercel.app)">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -81,15 +81,13 @@ Currently building across:
 
 ### AI & Data
 
-<p>
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" height="42" alt="LangChain"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/llamaindex/6B4FBB" width="42" height="42" alt="LlamaIndex"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/groq/F55036" width="42" height="42" alt="Groq"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28" alt="Groq"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/meta/0467DF" width="42" height="42" alt="LLaMA"/>
-</p>
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" height="28" alt="LLaMA"/>
 
 **Also working with:** `MCP` · `DataHub` · `LLaMA` · `Mistral` · `RAG` · `Vector Databases` · `AI Agents`
 
@@ -184,9 +182,9 @@ I'm particularly interested in moving beyond **LLM-powered features** toward sys
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Elisabeth56&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabeth56&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
