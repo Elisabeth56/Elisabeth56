@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A1723"/>
+      <stop offset="55%" stop-color="#17141E"/>
+      <stop offset="100%" stop-color="#221826"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.12" r="0.6">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.06" cy="0.95" r="0.55">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="gRose" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDA4AF"/><stop offset="100%" stop-color="#E11D48"/>
+    </linearGradient>
+    <linearGradient id="gViolet" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C4B5FD"/><stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="gMint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6EE7B7"/><stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="gAmber" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDE68A"/><stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="gSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7DD3FC"/><stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="gSlate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#94A3B8"/><stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="324" rx="26" fill="url(#bg)"/>
+  <rect x="8" y="8" width="1184" height="324" rx="26" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1184" height="324" rx="26" fill="url(#glow2)"/>
+  <rect x="8.5" y="8.5" width="1183" height="323" rx="25.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
+
+  <!-- window chrome -->
+  <path d="M8 34a26 26 0 0 1 26-26h1132a26 26 0 0 1 26 26v22H8z" fill="#FFFFFF" fill-opacity="0.035"/>
+  <line x1="8" y1="56" x2="1192" y2="56" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="40" cy="32" r="6.5" fill="#FF5F57"/>
+  <circle cx="62" cy="32" r="6.5" fill="#FEBC2E"/>
+  <circle cx="84" cy="32" r="6.5" fill="#28C840"/>
+  <text x="600" y="37" text-anchor="middle" font-size="13" fill="#FFFFFF" fill-opacity="0.38" letter-spacing="0.6">elisynth — workstation</text>
+
+  <!-- left column -->
+  <text x="56" y="140" font-size="52" font-weight="bold" fill="#F8FAFC" letter-spacing="-1">Elisabeth Nnamani</text>
+  <rect x="57" y="156" width="118" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="56" y="196" font-size="23" font-weight="bold" fill="#FB7185" letter-spacing="2.2">AI SOFTWARE ENGINEER</text>
+
+  <g font-size="15" fill="#CBD5E1" fill-opacity="0.82">
+    <text x="56" y="238">Grounded RAG systems · multi-agent orchestration · offline-first AI</text>
+  </g>
+
+  <!-- status chips -->
+  <g font-size="13">
+    <rect x="56" y="258" width="152" height="30" rx="15" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.45"/>
+    <circle cx="76" cy="273" r="4.5" fill="#34D399"/>
+    <text x="88" y="278" fill="#6EE7B7">open to work</text>
+
+    <rect x="218" y="258" width="128" height="30" rx="15" fill="#FB7185" fill-opacity="0.13" stroke="#FB7185" stroke-opacity="0.42"/>
+    <text x="238" y="278" fill="#FDA4AF">Lagos · WAT</text>
+
+    <rect x="356" y="258" width="146" height="30" rx="15" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.42"/>
+    <text x="376" y="278" fill="#C4B5FD">@elisynthdev</text>
+  </g>
+
+  <!-- app icon grid -->
+  <g transform="translate(736,96)">
+    <!-- Atlas: knowledge graph -->
+    <g transform="translate(0,0)">
+      <rect width="88" height="88" rx="21" fill="url(#gRose)"/>
+      <rect width="88" height="88" rx="21" fill="#FFFFFF" fill-opacity="0.10"/>
+      <g stroke="#FFFFFF" stroke-width="2.6" stroke-opacity="0.92" fill="none">
+        <path d="M44 30v12M44 30 30 46M44 30l14 16M30 46v10M58 46v10"/>
+      </g>
+      <g fill="#FFFFFF">
+        <circle cx="44" cy="26" r="5.5"/><circle cx="28" cy="48" r="5"/><circle cx="60" cy="48" r="5"/>
+        <circle cx="28" cy="62" r="4.5" fill-opacity="0.75"/><circle cx="60" cy="62" r="4.5" fill-opacity="0.75"/>
+      </g>
+    </g>
+    <!-- PrismOS: prism split -->
+    <g transform="translate(104,0)">
+      <rect width="88" height="88" rx="21" fill="url(#gViolet)"/>
+      <rect width="88" height="88" rx="21" fill="#FFFFFF" fill-opacity="0.10"/>
+      <path d="M44 22 66 62H22z" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+      <g stroke-width="3" stroke-linecap="round">
+        <line x1="14" y1="46" x2="34" y2="46" stroke="#FFFFFF"/>
+        <line x1="56" y1="40" x2="76" y2="34" stroke="#FDA4AF"/>
+        <line x1="57" y1="47" x2="77" y2="47" stroke="#FDE68A"/>
+        <line x1="56" y1="54" x2="76" y2="60" stroke="#6EE7B7"/>
+      </g>
+    </g>
+    <!-- FarmTwin: leaf + offline -->
+    <g transform="translate(208,0)">
+      <rect width="88" height="88" rx="21" fill="url(#gMint)"/>
+      <rect width="88" height="88" rx="21" fill="#FFFFFF" fill-opacity="0.10"/>
+      <path d="M62 24C40 24 26 36 26 54c0 6 3 10 3 10s16 2 26-8 7-32 7-32z" fill="#FFFFFF" fill-opacity="0.95"/>
+      <path d="M58 30C44 38 36 48 30 66" stroke="#059669" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    </g>
+    <!-- FinSight: chart -->
+    <g transform="translate(312,0)">
+      <rect width="88" height="88" rx="21" fill="url(#gAmber)"/>
+      <rect width="88" height="88" rx="21" fill="#FFFFFF" fill-opacity="0.10"/>
+      <g fill="#FFFFFF">
+        <rect x="24" y="46" width="10" height="20" rx="3"/>
+        <rect x="39" y="36" width="10" height="30" rx="3"/>
+        <rect x="54" y="26" width="10" height="40" rx="3"/>
+      </g>
+      <path d="M22 34l14-8 12 6 16-14" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    </g>
+    <!-- FlowMind: flow -->
+    <g transform="translate(0,104)">
+      <rect width="88" height="88" rx="21" fill="url(#gSky)"/>
+      <rect width="88" height="88" rx="21" fill="#FFFFFF" fill-opacity="0.10"/>
+      <g stroke="#FFFFFF" stroke-width="2.8" fill="none" stroke-linecap="round">
+        <path d="M22 32h20a10 10 0 0 1 10 10v4a10 10 0 0 0 10 10h4"/>
+        <path d="M22 60h14"/>
+      </g>
+      <g fill="#FFFFFF"><circle cx="18" cy="32" r="5"/><circle cx="18" cy="60" r="5"/><circle cx="68" cy="56" r="6"/></g>
+    </g>
+    <!-- Terminal -->
+    <g transform="translate(104,104)">
+      <rect width="88" height="88" rx="21" fill="url(#gSlate)"/>
+      <rect width="88" height="88" rx="21" fill="#000000" fill-opacity="0.28"/>
+      <g stroke="#6EE7B7" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M26 32l14 12-14 12"/>
+        <path d="M46 58h18"/>
+      </g>
+    </g>
+    <!-- Hackathon medal -->
+    <g transform="translate(208,104)">
+      <rect width="88" height="88" rx="21" fill="#0F172A"/>
+      <rect width="88" height="88" rx="21" fill="#FB7185" fill-opacity="0.18"/>
+      <rect width="88" height="88" rx="21" fill="none" stroke="#FB7185" stroke-opacity="0.35" stroke-width="1.5"/>
+      <path d="M30 22l8 20M58 22l-8 20" stroke="#FDA4AF" stroke-width="3.4" stroke-linecap="round"/>
+      <circle cx="44" cy="54" r="15" fill="none" stroke="#FDE68A" stroke-width="3.4"/>
+      <path d="M44 46l2.6 5.4 5.9.8-4.3 4.1 1 5.9-5.2-2.8-5.2 2.8 1-5.9-4.3-4.1 5.9-.8z" fill="#FDE68A"/>
+    </g>
+    <!-- Open to work / mail -->
+    <g transform="translate(312,104)">
+      <rect width="88" height="88" rx="21" fill="#0F172A"/>
+      <rect width="88" height="88" rx="21" fill="#34D399" fill-opacity="0.16"/>
+      <rect width="88" height="88" rx="21" fill="none" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
+      <rect x="22" y="30" width="44" height="30" rx="6" fill="none" stroke="#6EE7B7" stroke-width="3"/>
+      <path d="M24 34l20 14 20-14" fill="none" stroke="#6EE7B7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
