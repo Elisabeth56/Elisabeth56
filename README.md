@@ -1,44 +1,44 @@
-<img src="assets/header.svg" alt="Elisabeth Nnamani — AI Software Engineer · grounded RAG, multi-agent orchestration, offline-first AI · Lagos, NG" width="100%">
+<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/header.png" alt="Elisabeth Nnamani — AI Software Engineer · grounded RAG, multi-agent orchestration, offline-first AI · Lagos, NG" width="100%">
 
 ## 🛠️ &nbsp;What's running
 
 <table>
 <tr>
-<td width="64" align="center"><img src="assets/icons/atlas.svg" width="46"></td>
+<td width="64" align="center"><img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/icons/atlas.png" width="46"></td>
 <td>
-<b><a href="https://atlas-ai-taupe.vercel.app">Atlas AI</a></b>&nbsp;&nbsp;<img src="assets/pills/live.svg" height="20">&nbsp;<img src="assets/pills/apache.svg" height="20"><br>
+<b><a href="https://atlas-ai-taupe.vercel.app">Atlas AI</a></b>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/live.png" height="20">&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/apache.png" height="20"><br>
 Plain-English request → production data artifacts: dbt models, SQL, tests, docs. Six sequential agents grounded in a real DataHub catalog, with two human approval gates that are genuine orchestrator pauses — they survive a restart.<br>
 <sub><code>FastAPI</code> <code>async SQLAlchemy</code> <code>WebSockets</code> <code>Groq</code> <code>DataHub</code> <code>Next.js</code></sub>
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/icons/prismos.svg" width="46"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/icons/prismos.png" width="46"></td>
 <td>
-<b><a href="https://prism-os-jade.vercel.app">PrismOS</a></b>&nbsp;&nbsp;<img src="assets/pills/live.svg" height="20">&nbsp;<img src="assets/pills/qwen.svg" height="20"><br>
+<b><a href="https://prism-os-jade.vercel.app">PrismOS</a></b>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/live.png" height="20">&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/qwen.png" height="20"><br>
 Point it at a codebase, describe a feature, get the code <i>and</i> the argument that produced it. Seven agents required to disagree, every conflict written to a log, QA holding a binding ship/revise verdict.<br>
 <sub><code>LangGraph</code> <code>FastAPI</code> <code>Qwen3-235B</code> <code>Next.js 14</code> <code>Supabase</code> <code>Alibaba Cloud</code></sub>
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/icons/farmtwin.svg" width="46"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/icons/farmtwin.png" width="46"></td>
 <td>
-<b><a href="https://github.com/Elisabeth56/FarmTwin">FarmTwin</a></b>&nbsp;&nbsp;<img src="assets/pills/offline.svg" height="20">&nbsp;<img src="assets/pills/adtc.svg" height="20"><br>
+<b><a href="https://github.com/Elisabeth56/FarmTwin">FarmTwin</a></b>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/offline.png" height="20">&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/adtc.png" height="20"><br>
 Agronomic advisor for a Nigerian smallholder maize farm. Model, vector index and knowledge base all on-device — zero network calls at runtime, on a 2014 MacBook with 8&nbsp;GB of RAM. Every answer cited back to NAERLS, IITA, CIMMYT or FAO.<br>
 <sub><code>llama.cpp</code> <code>Qwen2.5-3B Q4_K_M</code> <code>sqlite-vec</code> <code>FastAPI</code> <code>React</code></sub>
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/icons/finsight.svg" width="46"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/icons/finsight.png" width="46"></td>
 <td>
-<b>FinSight AI</b>&nbsp;&nbsp;<img src="assets/pills/flagship.svg" height="20"><br>
+<b>FinSight AI</b>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/flagship.png" height="20"><br>
 Personal finance dashboard with RAG chat over your own transactions.<br>
 <sub><code>Next.js</code> <code>FastAPI</code> <code>LlamaIndex</code> <code>LLaMA 3</code> <code>PostgreSQL</code></sub>
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/icons/flowmind.svg" width="46"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/icons/flowmind.png" width="46"></td>
 <td>
-<b>FlowMind</b>&nbsp;&nbsp;<img src="assets/pills/flagship.svg" height="20"><br>
+<b>FlowMind</b>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/pills/flagship.png" height="20"><br>
 Workflow automation OS — the repetitive parts of a work week, delegated.<br>
 <sub><code>Next.js</code> <code>Supabase</code> <code>LangChain</code> <code>Mistral</code> <code>shadcn/ui</code></sub>
 </td>
@@ -61,7 +61,7 @@ Workflow automation OS — the repetitive parts of a work week, delegated.<br>
 
 ## 🧰 &nbsp;Stack
 
-<img src="assets/stack.svg" alt="Frontend: Next.js, React, TypeScript, Tailwind, Framer Motion, shadcn/ui · Backend: FastAPI, Python, Node.js, PostgreSQL, Supabase, WebSockets · AI layer: LangGraph, LangChain, LlamaIndex, llama.cpp, RAG pipelines, Groq, Qwen, Mistral · Infra: Vercel, Docker, Render, Neon, Alibaba Cloud, CI/CD" width="100%">
+<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/stack.png" alt="Frontend: Next.js, React, TypeScript, Tailwind, Framer Motion, shadcn/ui · Backend: FastAPI, Python, Node.js, PostgreSQL, Supabase, WebSockets · AI layer: LangGraph, LangChain, LlamaIndex, llama.cpp, RAG pipelines, Groq, Qwen, Mistral · Infra: Vercel, Docker, Render, Neon, Alibaba Cloud, CI/CD" width="100%">
 
 ## 🌍 &nbsp;Also true
 
@@ -69,7 +69,7 @@ Workflow automation OS — the repetitive parts of a work week, delegated.<br>
 - 🧪 &nbsp;Freelance: AI apps, automations, SaaS MVPs, dashboards, internal tools.
 - 📌 &nbsp;I keep the caveats public. Every repo README says what isn't verified yet.
 
-<img src="assets/footer.svg" alt="elisabethnnamani.dev · LinkedIn /in/elisabethnnamani · X @elisynthdev · nnamanielisabeth@gmail.com" width="100%">
+<img src="https://raw.githubusercontent.com/Elisabeth56/Elisabeth56/main/assets/footer.png" alt="elisabethnnamani.dev · LinkedIn /in/elisabethnnamani · X @elisynthdev · nnamanielisabeth@gmail.com" width="100%">
 
 <p align="center">
   <a href="https://elisabethnnamani.dev">Portfolio</a> ·
