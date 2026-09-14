@@ -65,7 +65,7 @@ Workflow automation OS — the repetitive parts of a work week, delegated.<br>
 
 ## 🌍 &nbsp;Also true
 
-- 🏁 &nbsp;I run through hackathons — **Qwen Cloud** (Agent Society), **Africa Deep Tech Challenge**, **AWS Agents for Humans** — because a hard deadline is the fastest way to find out whether an architecture actually holds.
+- 🏁 &nbsp;I run through hackathons — **Qwen Cloud** (Agent Society), **Africa Deep Tech Challenge**, because a hard deadline is the fastest way to find out whether an architecture actually holds.
 - 🧪 &nbsp;Freelance: AI apps, automations, SaaS MVPs, dashboards, internal tools.
 - 📌 &nbsp;I keep the caveats public. Every repo README says what isn't verified yet.
 
@@ -75,5 +75,5 @@ Workflow automation OS — the repetitive parts of a work week, delegated.<br>
   <a href="https://elisabethnnamani.dev">Portfolio</a> ·
   <a href="https://linkedin.com/in/elisabethnnamani">LinkedIn</a> ·
   <a href="https://x.com/elisynthdev">X</a> ·
-  <a href="mailto:nnamanielisabeth@gmail.com">Email</a>
+  <a href="mailto:hello@elisabethnnamani.dev">Email</a>
 </p>
