@@ -30,7 +30,7 @@ Agronomic advisor for a Nigerian smallholder maize farm. Model, vector index and
 <tr>
 <td align="center"><img src="assets/icons/finsight.png" width="46"></td>
 <td>
-<b>FinSight AI</b>&nbsp;&nbsp;<img src="assets/pills/flagship.png" height="20"><br>
+<b><a href="https://finsight-red-two.vercel.app">FinSight AI</b>&nbsp;&nbsp;<img src="assets/pills/flagship.png" height="20"><br>
 Personal finance dashboard with RAG chat over your own transactions.<br>
 <sub><code>Next.js</code> <code>FastAPI</code> <code>LlamaIndex</code> <code>LLaMA 3</code> <code>PostgreSQL</code></sub>
 </td>
@@ -38,7 +38,7 @@ Personal finance dashboard with RAG chat over your own transactions.<br>
 <tr>
 <td align="center"><img src="assets/icons/flowmind.png" width="46"></td>
 <td>
-<b>FlowMind</b>&nbsp;&nbsp;<img src="assets/pills/flagship.png" height="20"><br>
+<b><a href="https://flowmind-sage.vercel.app">FlowMind</b>&nbsp;&nbsp;<img src="assets/pills/flagship.png" height="20"><br>
 Workflow automation OS — the repetitive parts of a work week, delegated.<br>
 <sub><code>Next.js</code> <code>Supabase</code> <code>LangChain</code> <code>Mistral</code> <code>shadcn/ui</code></sub>
 </td>
