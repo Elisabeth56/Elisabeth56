@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="Elisabeth Nnamani — AI Software Engineer · grounded RAG, multi-agent orchestration, offline-first AI · Lagos, NG" width="100%">
+<img src="assets/header.png" alt="Elisabeth Nnamani — AI Engineer · grounded RAG, multi-agent orchestration, offline-first AI · Lagos, NG" width="100%">
 
 ## 🛠️ &nbsp;What's running
 
